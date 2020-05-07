@@ -6,18 +6,19 @@
 
 3. Buatlah Program Dengan Spesifikasi dibawah ini :
 	- Buatlah sebuah perulangan untuk menampilkan bilangan seperti dibawah ini :
-> 1
-3
-6
-10
-15
-21
-28
-36
-45
-55
+	1
+	3
+	6
+	10
+	15
+	21
+	28
+	36
+	45
+	55
 
 	**Hint : Tambahkan 1 variabel penampung.**
 4. Happy Codding :)
 
 For : [Niomic Tech Education](https://niomic.com/)
+
