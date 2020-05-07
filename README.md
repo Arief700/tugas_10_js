@@ -11,7 +11,7 @@
 	<img src="https://lh4.googleusercontent.com/zajRaQg-8X7o9Wi_7BOxynDm-J7Z18nlWZkoB-glFYm_Db38T24TKamZcQu2BPEb2z7sYevNMDNYW4cKluB7XyM2OTC4aICeSE9wFJ-xlwgTkvt94so6YlKeTuyR71N70uX-WSl2" alt="tugas10.png" width="60%" />
 </p>
 
-	**Hint : Tambahkan 1 variabel penampung.**
+**Hint : Tambahkan 1 variabel penampung.**
 4. Happy Codding :)
 
 For : [Niomic Tech Education](https://niomic.com/)
